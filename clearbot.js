@@ -7,3 +7,5 @@ bot.on('ready', () => {
 });
 
 bot.login(WPISZTUTAJHIPERDUPERSEKRETNYKOD);
+
+//kappa
